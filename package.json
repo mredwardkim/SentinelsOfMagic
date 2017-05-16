@@ -1,9 +1,9 @@
 {
-  "name": "Fridgr",
-  "version": "0.0.1",
-  "description": "Tracking groceries got you stressed? Chill.",
-  "repository": "https://github.com/SentinelsOfMagic/SentinelsOfMagic",
-  "author": "Sentinels of Magic",
+  "name": "Divy",
+  "version": "0.0.2",
+  "description": "Divy up tasks and expenses with others.",
+  "repository": "https://github.com/guardians-of-the-galaxy-hr/SentinelsOfMagic",
+  "author": "Guardians of the Galaxy",
   "license": "MIT",
   "engines": {
     "node": ">=6.4.0"
